@@ -63382,7 +63382,7 @@ A.AX.prototype={
 T(a){var s,r=null,q=t.w,p=A.bG(a,r,q).w.a.b,o=A.bG(a,r,q).w.a.a
 q=o*0.1
 s=p*0.1
-return A.eY(r,A.Oe(A.a([A.a7e(A.abj("images/hello.png",r),1),new A.qY(!0,r)],t.F),B.aP,B.b6),B.v,r,r,r,r,p*0.9,r,new A.b4(q,s,q,s),r,r,o)}}
+return A.eY(r,A.Oe(A.a([A.a7e(A.abj("assets/images/hello.png",r),1),new A.qY(!0,r)],t.F),B.aP,B.b6),B.v,r,r,r,r,p*0.9,r,new A.b4(q,s,q,s),r,r,o)}}
 A.A6.prototype={
 T(a){return A.a8_(new A.Pn())}}
 A.Pn.prototype={
